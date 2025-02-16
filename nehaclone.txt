@@ -1,1 +1,2 @@
-welcome to the experiment 2
+welcome to the experiment 2lets learn how to clone 
+how to clone files from repo to local
